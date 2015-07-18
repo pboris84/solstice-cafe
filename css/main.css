@@ -1,0 +1,25 @@
+body {
+/*	background-color: grey; */
+    background-image: url('../sticker.jpg');
+    background-size: cover;
+}
+
+main {
+	margin: 0px 0px 20px 60%;
+	/*background-image: url('../backpattern.jpg');*/
+	
+	color: white;
+}
+
+h1 {
+	opacity: 0.9;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+h2 {
+	opacity: 0.7;
+	margin-top: 0;
+	padding-top: 0;
+	padding-left: 85px;
+}
